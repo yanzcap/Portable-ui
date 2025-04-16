@@ -1,21 +1,6 @@
 <h1 align="center">
     Portable UI
 </h1>
-<p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/github/package-json/v/NIU-BIN/portable-ui">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/stars/NIU-BIN/portable-ui">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/license/NIU-BIN/portable-ui">
-    </a>
-    <img src="https://github.com/NIU-BIN/portable-ui/blob/main/cover.png"/>
-</p>
-
-- ✨ Vue 3 Composition API
-- 📖 Written in TypeScript
 
 ### 代码结构
 
@@ -25,7 +10,7 @@
 |-- portable-ui
     |-- docs // 组件库文档
         |-- .vitepress
-            |-- theme  // 主题相关（全局组件注册也在这）
+            |-- theme  // 主题相关（全局组件注册）
             |-- config.ts  // vitepress配置文件
         |-- components // 所有组件文档
         |-- public // 静态资源
